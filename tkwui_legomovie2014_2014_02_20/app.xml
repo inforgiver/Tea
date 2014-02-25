@@ -1,0 +1,71 @@
+<xml>
+  <navigation type="tabs" backgroundColor="" backgroundImage="" contentOverlap="" itemsPosition="" textStyle="" textSize="" textFont="">
+    <items>
+      <item icon="home.png" text="Home" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="42-photos.png" text="Photo" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="45-movie1.png" text="Video" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+    </items>
+  </navigation>
+  <targetplatform simulator="Nexus4">Android</targetplatform>
+  <template price="199.99" id="PhotoPortfolio" scaleWebPagesToBaseResolution="false" />
+  <prop id="appname" title="App Name">
+  </prop>
+  <prop id="tab1text" title="Tab1 Text">Home</prop>
+  <prop id="tab1icon" title="Tab1 Icon">home.png</prop>
+  <prop id="tab2text" title="Tab2 Text">Gallery</prop>
+  <prop id="tab2icon" title="Tab2 Icon">42-photos.png</prop>
+  <prop id="tab3text" title="Tab3 Text">Blog</prop>
+  <prop id="tab3icon" title="Tab3 Icon">rss.png</prop>
+  <prop id="tab4text" title="Tab4 Text">More..</prop>
+  <prop id="tab4icon" title="Tab4 Icon">more.png</prop>
+  <page id="tab2.html" type="mosaic" transition="" slidepageid="none" hasreviews="no" topad="no" bottomad="no" slidetransition="" hassend="no" hasfields="no" hasreviewhtmlkey="no">
+    <webalbum title="PHOTO">
+      <webpicture>
+        <title>Picture6</title>
+        <file>the_lego_movie_2014-wide.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture7</title>
+        <file>tlm_bricksburg25.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture8</title>
+        <file>The_lego_movie_banner.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture9</title>
+        <file>2014-The-Lego-movie-wallpaper-1680x1260.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+      <webpicture>
+        <title>Picture6</title>
+        <file>lego-movie-2014-hd-wallpaper-1920x1080.jpg</file>
+        <caption>
+        </caption>
+      </webpicture>
+    </webalbum>
+  </page>
+  <page id="tab3.html" type="mobileyoutube" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <cloudhosted>3</cloudhosted>
+  <page id="tab1.html" type="wpstartmenu" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <appstorelink>
+  </appstorelink>
+  <description>
+  </description>
+  <keywords>
+  </keywords>
+  <primarycat>0</primarycat>
+  <secondarycat>0</secondarycat>
+  <external>0</external>
+  <admobpublisher id="" />
+  <planname>Basic</planname>
+  <page id="Information.html" type="mobile" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="index.html" type="html" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" />
+</xml>
